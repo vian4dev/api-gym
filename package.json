@@ -1,8 +1,8 @@
 {
   "name": "api-gym",
   "version": "1.0.0",
-  "description": "",
   "type": "module",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "start:dev": "tsx watch src/server.ts",
